@@ -1,0 +1,6 @@
+@LambdaCrudAPI_HostAddress = http://localhost:5001
+
+GET {{LambdaCrudAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
