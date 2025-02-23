@@ -142,3 +142,5 @@ C:\Users\John Cortez.DESKTOP-1T8I7CE\source\repos\LambdaCrudAPI\LambdaCrudAPI\ob
 C:\Users\John Cortez.DESKTOP-1T8I7CE\source\repos\LambdaCrudAPI\LambdaCrudAPI\obj\Debug\net8.0\LambdaCrudAPI.pdb
 C:\Users\John Cortez.DESKTOP-1T8I7CE\source\repos\LambdaCrudAPI\LambdaCrudAPI\obj\Debug\net8.0\LambdaCrudAPI.genruntimeconfig.cache
 C:\Users\John Cortez.DESKTOP-1T8I7CE\source\repos\LambdaCrudAPI\LambdaCrudAPI\obj\Debug\net8.0\ref\LambdaCrudAPI.dll
+C:\Users\John Cortez.DESKTOP-1T8I7CE\source\repos\LambdaCrudAPI\LambdaCrudAPI\obj\Debug\net8.0\LambdaCrudAPI.sourcelink.json
+C:\Users\John Cortez.DESKTOP-1T8I7CE\source\repos\LambdaCrudAPI\LambdaCrudAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
