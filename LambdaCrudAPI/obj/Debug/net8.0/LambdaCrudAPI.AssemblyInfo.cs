@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LambdaCrudAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22b244cd2b6f25886b50fc7201e7e4f950867310")]
 [assembly: System.Reflection.AssemblyProductAttribute("LambdaCrudAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LambdaCrudAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
